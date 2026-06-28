@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -58,9 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
