@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0169-majority-element) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
