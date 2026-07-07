@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -24,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
