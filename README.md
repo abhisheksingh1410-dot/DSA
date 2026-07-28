@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1025-divisor-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
