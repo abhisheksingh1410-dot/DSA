@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1025-divisor-game) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0344-reverse-string) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
