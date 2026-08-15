@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -187,9 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
