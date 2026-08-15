@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
