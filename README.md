@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1528-shuffle-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2942-find-words-containing-character](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2942-find-words-containing-character) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
 |  |
 | ------- |
