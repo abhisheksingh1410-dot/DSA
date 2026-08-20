@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0867-transpose-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0867-transpose-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1528-shuffle-string) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0037-sudoku-solver) |
+| [0867-transpose-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
