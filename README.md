@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3467-transform-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3467-transform-array-by-parity) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Design
 |  |
 | ------- |
