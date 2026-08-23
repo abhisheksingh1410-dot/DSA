@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3467-transform-array-by-parity) |
