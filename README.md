@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
