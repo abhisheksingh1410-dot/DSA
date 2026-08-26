@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3467-transform-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3925-concatenate-array-with-reverse](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
