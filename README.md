@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1816-truncate-sentence) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0037-sudoku-solver) |
 | [0867-transpose-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
