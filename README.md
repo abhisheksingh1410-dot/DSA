@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3731-find-missing-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3731-find-missing-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
