@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1816-truncate-sentence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0389-find-the-difference) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1528-shuffle-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3467-transform-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3467-transform-array-by-parity) |
