@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1025-divisor-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
