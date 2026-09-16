@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1025-divisor-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1025-divisor-game) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0141-linked-list-cycle) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -470,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
