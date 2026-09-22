@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2553-separate-the-digits-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2678-number-of-senior-citizens) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3498-reverse-degree-of-a-string) |
