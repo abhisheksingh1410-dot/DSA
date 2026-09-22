@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1528-shuffle-string) |
+| [1534-count-good-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1534-count-good-triplets) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
