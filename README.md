@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
+| [0709-to-lower-case](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
