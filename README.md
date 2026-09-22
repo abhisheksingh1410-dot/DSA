@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3285-find-indices-of-stable-mountains](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3285-find-indices-of-stable-mountains) |
 | [3467-transform-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3467-transform-array-by-parity) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3731-find-missing-elements) |
