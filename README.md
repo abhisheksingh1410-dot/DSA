@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## String
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
