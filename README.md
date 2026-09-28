@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Stack
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3701-compute-alternating-sum) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
