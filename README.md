@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3110-score-of-a-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3701-compute-alternating-sum) |
