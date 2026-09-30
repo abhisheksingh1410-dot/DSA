@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
