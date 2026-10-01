@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0905-sort-array-by-parity) |
+| [0946-validate-stack-sequences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1051-height-checker) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0946-validate-stack-sequences) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1920-build-array-from-permutation) |
