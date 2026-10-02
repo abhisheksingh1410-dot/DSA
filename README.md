@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2678-number-of-senior-citizens) |
+| [2810-faulty-keyboard](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2810-faulty-keyboard) |
 | [2864-maximum-odd-binary-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3019-number-of-changing-keys) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2810-faulty-keyboard) |
 | [2974-minimum-number-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
