@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2418-sort-the-people) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2864-maximum-odd-binary-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2864-maximum-odd-binary-number) |
 ## Two Pointers
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
