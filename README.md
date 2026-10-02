@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3174-clear-digits) |
 ## Simulation
