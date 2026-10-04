@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0917-reverse-only-letters) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
