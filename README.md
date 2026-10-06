@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1025-divisor-game) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Monotonic Stack
 |  |
 | ------- |
