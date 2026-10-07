@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2652-sum-multiples) |
 | [2864-maximum-odd-binary-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
