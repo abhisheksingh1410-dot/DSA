@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2864-maximum-odd-binary-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2864-maximum-odd-binary-number) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2418-sort-the-people) |
