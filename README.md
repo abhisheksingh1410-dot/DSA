@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1551-minimum-operations-to-make-array-equal](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1773-count-items-matching-a-rule) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
