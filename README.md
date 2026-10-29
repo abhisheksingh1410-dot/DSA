@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0202-happy-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0509-fibonacci-number) |
@@ -728,5 +730,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
