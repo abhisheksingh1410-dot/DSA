@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2367-number-of-arithmetic-triplets) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2418-sort-the-people](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2418-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2716-minimize-string-length) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Counting Sort
