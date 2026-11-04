@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0164-maximum-gap) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0268-missing-number) |
