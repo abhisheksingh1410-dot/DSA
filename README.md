@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1528-shuffle-string) |
+| [1544-make-the-string-great](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2000-reverse-prefix-of-word) |
