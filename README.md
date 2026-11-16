@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2810-faulty-keyboard](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2810-faulty-keyboard) |
