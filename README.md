@@ -770,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1267-count-servers-that-communicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Combinatorics
@@ -784,9 +785,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/abhisheksingh1410-dot/DSA/tree/master/1267-count-servers-that-communicate) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/abhisheksingh1410-dot/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
