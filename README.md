@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3701-compute-alternating-sum](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3701-compute-alternating-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2864-maximum-odd-binary-number](https://github.com/abhisheksingh1410-dot/DSA/tree/master/2864-maximum-odd-binary-number) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3467-transform-array-by-parity) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhisheksingh1410-dot/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
