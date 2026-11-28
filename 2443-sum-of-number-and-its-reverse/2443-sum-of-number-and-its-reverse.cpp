@@ -1,0 +1,21 @@
+class Solution {
+public:
+    bool sumOfNumberAndReverse(int num) {
+
+        for (int i = 0; i <= num; i++) {
+            int temp = i;
+            long long rev = 0;
+
+            while (temp > 0) {
+                rev = rev * 10 + temp % 10;
+                temp /= 10;
+            }
+
+            if (i + rev == num) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+};
